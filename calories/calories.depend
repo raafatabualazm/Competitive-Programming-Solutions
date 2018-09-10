@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486211900 source:d:\projects\calories\main.cpp
+	<iostream>
+	<string>
+

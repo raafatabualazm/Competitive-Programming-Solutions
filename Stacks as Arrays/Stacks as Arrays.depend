@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503045153 source:e:\projects\stacks as arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

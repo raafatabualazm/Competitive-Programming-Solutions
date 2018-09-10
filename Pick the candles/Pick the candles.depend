@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516707646 source:d:\projects\pick the candles\main.cpp
+	<iostream>
+	<deque>
+	<algorithm>
+

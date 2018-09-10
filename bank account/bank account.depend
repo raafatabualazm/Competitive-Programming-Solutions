@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486827441 source:d:\projects\bank account\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501921602 source:e:\projects\flow control\main.c
+	<stdio.h>
+	<stdlib.h>
+

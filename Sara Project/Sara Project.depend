@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490775203 source:d:\projects\sara project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

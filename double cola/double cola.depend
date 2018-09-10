@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486222879 source:d:\projects\double cola\main.cpp
+	<iostream>
+	<vector>
+

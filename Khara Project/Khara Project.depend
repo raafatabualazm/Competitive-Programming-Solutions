@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490740926 source:d:\projects\khara project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

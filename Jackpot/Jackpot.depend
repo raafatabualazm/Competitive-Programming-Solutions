@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503145368 source:e:\projects\jackpot\main.cpp
+	<iostream>
+	<vector>
+

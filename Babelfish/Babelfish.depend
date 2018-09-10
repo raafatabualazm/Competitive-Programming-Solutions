@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516223221 source:d:\projects\babelfish\main.cpp
+	<iostream>
+	<map>
+

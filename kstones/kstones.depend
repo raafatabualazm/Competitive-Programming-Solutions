@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503138987 source:e:\projects\kstones\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490776459 source:d:\projects\phonebook_bst\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

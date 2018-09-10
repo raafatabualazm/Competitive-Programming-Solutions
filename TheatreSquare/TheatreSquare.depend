@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485806858 source:d:\projects\theatresquare\main.cpp
+	<iostream>
+	<math.h>
+

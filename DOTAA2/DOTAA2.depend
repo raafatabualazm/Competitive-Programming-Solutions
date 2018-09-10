@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1516907717 source:d:\projects\dotaa2\main.cpp
+	<iostream>
+	<algorithm>
+

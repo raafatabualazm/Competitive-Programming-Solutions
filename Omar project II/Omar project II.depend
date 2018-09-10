@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490739420 source:d:\projects\omar project ii\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501934851 source:e:\projects\function\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+
+1501935483 e:\projects\function\add.h
+
