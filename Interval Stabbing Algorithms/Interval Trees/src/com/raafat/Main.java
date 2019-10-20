@@ -25,6 +25,7 @@ public class Main {
         IntervalTree it = new IntervalTree();
         Interval x;
         ArrayList<Interval> intervals;
+        long startTime, endTime, elapsedTime;
         for (int i = 0; i <n; i++) {
             x = new Interval();
             x.begin = a + rand.nextInt(b+1);
@@ -37,13 +38,17 @@ public class Main {
             it.root = it.insertNode(it.root, x);
         }
 
-        System.out.println("Entering results");
+        /*System.out.println("Entering results");
         it.inOrderTraverse(it.root);
         System.out.println();
-        System.out.println("Search results: ");
+        System.out.println("Search results: "); */
+        startTime = System.nanoTime();
         intervals = it.search(it.root, pi);
-        for (Interval elem : intervals) {
+        endTime = System.nanoTime();
+        elapsedTime = endTime - startTime;
+        /*for (Interval elem : intervals) {
             System.out.printf("The intervals begins at %d and ends at %d \n", elem.begin, elem.end);
-        }
+        }*/
+        System.out.printf("For %d Intervals it took %d nanoseconds to search for a point\n", n, elapsedTime);
     }
 }

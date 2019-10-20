@@ -1,5 +1,6 @@
 package com.raafat;
 
+import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -19,6 +20,8 @@ public class Main {
         p = scn.nextInt();
         Random rand = new Random();
         Interval[] intervals = new Interval[n];
+        ArrayList<Interval> output = new ArrayList<>();
+        long startTime, endTime, elapsedTime;
         for (int i = 0; i < n; i++) {
             intervals[i] = new Interval();
             intervals[i].begin = a + rand.nextInt(b+1);
@@ -29,12 +32,16 @@ public class Main {
                 intervals[i].end = m;
             }
         }
-
+        startTime = System.nanoTime();
         for (Interval element:intervals) {
             if (element.begin <= p && element.end >= p) {
-                System.out.printf("The Beginning of range is: %d and the Ending of range is: %d \n", element.begin, element.end);
+                //System.out.printf("The Beginning of range is: %d and the Ending of range is: %d \n", element.begin, element.end);
+                output.add(element);
             }
         }
+        endTime = System.nanoTime();
+        elapsedTime = endTime - startTime;
+        System.out.printf("For %d Intervals it took %d nanoseconds to search for a point\n", n, elapsedTime);
 
     }
 }

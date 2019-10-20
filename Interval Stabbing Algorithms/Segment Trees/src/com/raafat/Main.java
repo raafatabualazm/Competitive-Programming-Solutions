@@ -21,6 +21,7 @@ public class Main {
         pi.end = p;
         Random rand = new Random();
         Interval x;
+        long startTime, endTime, elapsedTime;
         Set<Interval> output;
         Integer[] points = new Integer[2*n];
         Interval[] intervals = new Interval[n];
@@ -46,14 +47,18 @@ public class Main {
         for (Interval i : intervals) {
             segTree.insertInterval(0, i);
         }
+        startTime = System.nanoTime();
         output = segTree.search(0, p);
-        System.out.println("Intervals");
+        endTime = System.nanoTime();
+        elapsedTime = endTime - startTime;
+        /*System.out.println("Intervals");
         for (Interval i : intervals) {
             System.out.printf("Start: %d  End: %d\n", i.begin, i.end);
         }
         System.out.println("Output");
         for (Interval i : output) {
             System.out.printf("Start: %d  End: %d\n", i.begin, i.end);
-        }
+        } */
+        System.out.printf("For %d Intervals it took %d nanoseconds to search for a point\n", n, elapsedTime);
     }
 }
