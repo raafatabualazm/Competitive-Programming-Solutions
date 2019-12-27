@@ -1,0 +1,3 @@
+D:/Repos/Projects/1278C - Berry Jam/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/Projects/1278C - Berry Jam/cmake-build-debug/CMakeFiles/1278C___Berry_Jam.dir
+D:/Repos/Projects/1278C - Berry Jam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

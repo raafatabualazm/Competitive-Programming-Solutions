@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576350448 source:d:\repos\projects\tea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

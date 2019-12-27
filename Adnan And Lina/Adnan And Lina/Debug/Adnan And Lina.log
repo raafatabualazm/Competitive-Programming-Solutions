@@ -1,0 +1,8 @@
+﻿Adnan And Lina.cpp(54,13): warning : expression result unused [-Wunused-value]
+Adnan And Lina.cpp(54,16): warning : expression result unused [-Wunused-value]
+Adnan And Lina.cpp(54,19): warning : expression result unused [-Wunused-value]
+Adnan And Lina.cpp(54,22): warning : expression result unused [-Wunused-value]
+Adnan And Lina.cpp(49,24): warning : unused variable 'tempNum' [-Wunused-variable]
+Adnan And Lina.cpp(57,20): warning : variable 'a' is uninitialized when used here [-Wuninitialized]
+Adnan And Lina.cpp(49,19): message : initialize the variable 'a' to silence this warning
+  Adnan And Lina.vcxproj -> D:\Repos\Projects\Adnan And Lina\Debug\Adnan And Lina.exe
