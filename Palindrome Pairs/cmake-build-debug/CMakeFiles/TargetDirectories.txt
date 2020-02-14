@@ -1,0 +1,3 @@
+D:/Repos/Projects/Palindrome Pairs/cmake-build-debug/CMakeFiles/Palindrome_Pairs.dir
+D:/Repos/Projects/Palindrome Pairs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/Projects/Palindrome Pairs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

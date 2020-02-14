@@ -1,0 +1,3 @@
+D:/Repos/Projects/543A - Writing Code/cmake-build-debug/CMakeFiles/543A___Writing_Code.dir
+D:/Repos/Projects/543A - Writing Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/Projects/543A - Writing Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Repos/Projects/Chef and Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repos/Projects/Chef and Queries/cmake-build-debug/CMakeFiles/Chef_and_Queries.dir
+D:/Repos/Projects/Chef and Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
